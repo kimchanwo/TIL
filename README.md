@@ -130,12 +130,17 @@
 |        |                            cd TIL                            |                       그 폴더로 들가기                       |
 |        |                           git init                           |                      그 폴더 관리 하기                       |
 |        |                       touch README.md                        |                        md 파일 만들기                        |
+|        |                          git status                          |                         빨간색 나옴                          |
+|        |                 그리고 TIL 폴더를 VS 로 열기                 |                                                              |
+|        |                          git status                          |                          (un)빨강이                          |
+|        |                          git add .                           |                         (new)초록이                          |
+|        |                 git commit -m 'readme added'                 |                       저장소로 넘기기                        |
+|        |                     원형으로 VS 넘어감!                      |                                                              |
+|        |                      git log --oneline                       |                             확인                             |
+|        |  git remote add origin https://github.com/kimchanwo/TIL.git  |         깃 허브 방만들기 후 주소복사 gn VS 붙여 넣기         |
+|        |                        git remote -v                         |                             확인                             |
+|        |                    git push origin master                    |                       깃 허브 보내기!                        |
 |        |                                                              |                                                              |
-|        |                                                              |                                                              |
-|        |                                                              |                                                              |
-|        |                                                              |                                                              |
-|        |                                                              |                                                              |
-|        |                                                              |                            remote                            |
 |        |                갓의 추적을 피하고싶을때 작성                 |                          gitignore                           |
 |        |         https://www.toptal.com/developers/gitignore          |                                                              |
 |        |                                                              |                                                              |
